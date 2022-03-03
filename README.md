@@ -1,3 +1,5 @@
 tamrin's lpic-2
-tamrin-2
-tamrin-3
+
+ostad file tamrin's dar ghesmate (issues) ast.
+
+link issues ---> https://github.com/mostafadashti/lpic-2/issues
